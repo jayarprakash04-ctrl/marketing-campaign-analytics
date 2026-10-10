@@ -224,8 +224,7 @@ Opens at `http://localhost:8501`.
 
 ## 👤 Author
 
-**Jp**
-Computer Science Student | GUVI × HCL Data Science Program
+Jayaprakash R
 
 ---
 
